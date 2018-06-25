@@ -1,4 +1,4 @@
-FROM microsoft/dotnet:2.1-2.1-sdk
+FROM microsoft/dotnet:2.1-sdk
 
 ENV MONO_VERSION 5.12.0.226
 
